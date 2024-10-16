@@ -21,7 +21,7 @@ def cargz() -> None:
         level="INFO",
         format="%(message)s",
         datefmt="[%X]",
-        handlers=[RichHandler()]
+        handlers=[RichHandler(rich_tracebacks=True)]
     )
 
     try:
