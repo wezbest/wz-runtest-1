@@ -1,1 +1,16 @@
-# Actual Scripts
+# Actual 
+
+1. Scripts here run in 
+
+https://github.com/wezbest/wz-runtest-1-2/tree/main/WORK 
+
+In above code space we are calling the scriot 
+
+```py 
+uv run <bastard>
+```
+
+# Fileza 
+
+What | Fuk
+--- | ---
