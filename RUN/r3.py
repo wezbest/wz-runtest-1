@@ -3,6 +3,8 @@
 # dependencies = [
 #     "requests",
 #     "rich",
+#     "subprocess",
+#     "sys",
 # ]
 # ///
 
@@ -21,7 +23,7 @@ url = [
 ]
 
 
-def main() -> None:
+def pussy() -> None:
     logging.basicConfig(
         level="DEBUG",
         format="%(message)s",
@@ -46,4 +48,4 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    pussy()
