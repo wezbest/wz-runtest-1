@@ -6,6 +6,7 @@ https://github.com/wezbest/wz-runtest-1-2/tree/main/WORK
 
 In above code space we are calling the scriot 
 
+
 ```py 
 uv run <bastard>
 ```
@@ -14,3 +15,7 @@ uv run <bastard>
 
 What | Fuk
 --- | ---
+
+# Notes 
+
+1. Everything has to be in one file then it will work 
